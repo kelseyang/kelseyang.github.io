@@ -13,12 +13,12 @@
 }*/
 @font-face {
     font-family: 'Pavanam';
-    src: url('../fonts/Pavanam-Regular.eot');
+    src: url('/assets/vendor/font-awesome/fonts/Pavanam-Regular.eot');
     src: local('Pavanam'), local('Pavanam-Regular'),
-        url('../fonts/Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/Pavanam-Regular.woff2') format('woff2'),
-        url('../fonts/Pavanam-Regular.woff') format('woff'),
-        url('../fonts/Pavanam-Regular.ttf') format('truetype');
+        url('/assets/vendor/font-awesome/fonts/Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/vendor/font-awesome/fonts/Pavanam-Regular.woff2') format('woff2'),
+        url('/assets/vendor/font-awesome/fonts/Pavanam-Regular.woff') format('woff'),
+        url('/assets/vendor/font-awesome/fonts/Pavanam-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
