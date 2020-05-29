@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Pavanam';
+    src: url('Pavanam-Regular.eot');
+    src: local('Pavanam'), local('Pavanam-Regular'),
+        url('Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Pavanam-Regular.woff2') format('woff2'),
+        url('Pavanam-Regular.woff') format('woff'),
+        url('Pavanam-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
