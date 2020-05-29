@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #choreography-hero .actions a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: "Proxima Nova", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -734,26 +734,26 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .section-description {
   text-align: center;
-  font-family; "Proxima Nova"; letter-spacing: 1px;
+  font-family; 'Open Sans'; letter-spacing: 1px;
   margin-bottom: 30px;
 }
 
 
 .section-description-white {
   text-align: center;
-  font-family; "Proxima Nova"; letter-spacing: 1px;
+  font-family; 'Open Sans'; letter-spacing: 1px;
   margin-bottom: 40px; color: #fff;
 }
 
 .section-about-white {
   text-align: center;
-  font-family; "Proxima Nova"; letter-spacing: 1px;
+  font-family; 'Open Sans'; letter-spacing: 1px;
   margin-bottom: 40px; color: #fff; font-size: 15px;
 }
 
 .section-about {
   text-align: center;
-  font-family; "Proxima Nova"; letter-spacing: 1px;
+  font-family; 'Open Sans'; letter-spacing: 1px;
   margin-bottom: 40px;
 }
 
@@ -795,7 +795,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-text {
   line-height: 26px;
   margin-bottom: 15px;
-  font-family: "Proxima Nova"; font-size: 14px;
+  font-family: "Open Sans"; font-size: 14px;
 }
 
 #about .about-text:last-child {
@@ -850,7 +850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services .service-description {
   margin-left: 80px;
   line-height: 24px;
-  font-family: 'Open Sans'; font-size: 14px;
+  font-family: "Open Sans"; font-size: 14px;
 }
 
 #services .services-video {
@@ -905,7 +905,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #faaidilaa-services .service-description {
   margin-left: 80px;
   line-height: 24px;
-  font-family: "Proxima Nova"; font-size: 14px;
+  font-family: "Open Sans"; font-size: 14px;
 }
 
 /* Services Section
@@ -957,7 +957,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services-cdandmd .service-description {
   margin-left: 80px;
   line-height: 24px;
-  font-family: "Proxima Nova"; font-size: 14px;
+  font-family: "Open Sans"; font-size: 14px;
 }
 
 /* Subscribe Section
@@ -976,7 +976,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #subscribe .subscribe-text {
   color: #fff; 
-  font-family: 'Open Sans'; font-size: 15px;
+  font-family: "Open Sans"; font-size: 15px;
 }
 
 #subscribe .subscribe-btn-container {
@@ -1015,7 +1015,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0;
   margin: 0 auto 35px auto;
   list-style: none;
-  text-align: center; font-family; 'Open Sans'; letter-spacing: 1px;
+  text-align: center; font-family; "Open Sans"; letter-spacing: 1px;
 }
 
 #portfolio #portfolio-flters li {
@@ -1141,7 +1141,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .profile span {
-  color: #333333; font-family: "Proxima Nova"; letter-spacing: 1px; font-size: 15px;
+  color: #333333; font-family: "Open Sans"; letter-spacing: 1px; font-size: 15px;
 }
 
 #testimonials .quote {
@@ -1149,7 +1149,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 60px;
   margin-top: 40px;
-  font-size: 16px; font-family: "Proxima Nova";
+  font-size: 16px; font-family: "Open Sans";
   font-style: italic;
   border-radius: 5px;
 }
@@ -1180,7 +1180,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0;
   margin: 0 auto 35px auto;
   list-style: none;
-  text-align: center; font-family; "Proxima Nova"; letter-spacing: 1px;
+  text-align: center; font-family; "Open Sans"; letter-spacing: 1px;
 }
 
 #portfolio-choreography #portfolio-flters li {
@@ -1306,7 +1306,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .profile span {
-  color: #333333; font-family: "Proxima Nova"; letter-spacing: 1px; font-size: 15px;
+  color: #333333; font-family: "Open Sans"; letter-spacing: 1px; font-size: 15px;
 }
 
 #testimonials .quote {
@@ -1314,7 +1314,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: #fff;
   padding: 60px;
   margin-top: 40px;
-  font-size: 16px; font-family: "Proxima Nova";
+  font-size: 16px; font-family: "Open Sans";
   font-style: italic;
   border-radius: 5px;
 }
@@ -1364,7 +1364,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member span {
-  font-style: italic; font-family: "Proxima Nova";
+  font-style: italic; font-family: "Open Sans";
   display: block;
   font-size: 13px;
 }
@@ -1394,7 +1394,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .info {
-  color: #666666;  font-family: 'Open Sans'; font-weight: 340; letter-spacing: 1px;
+  color: #666666;  font-family: "Open Sans"; font-weight: 340; letter-spacing: 1px;
 }
 
 #contact .info i {
@@ -1456,7 +1456,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .php-email-form input, #contact .php-email-form textarea {
   border-radius: 0;
-  box-shadow: none; font-family: 'Open Sans';
+  box-shadow: none; font-family: "Proxima Nova";
 }
 
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
