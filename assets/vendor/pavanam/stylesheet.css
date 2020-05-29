@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Pavanam';
-    src: url('Pavanam-Regular.eot');
+    src: url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.eot');
     src: local('Pavanam'), local('Pavanam-Regular'),
-        url('Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
-        url('Pavanam-Regular.woff2') format('woff2'),
-        url('Pavanam-Regular.woff') format('woff'),
-        url('Pavanam-Regular.ttf') format('truetype');
+        url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
+        url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.woff2') format('woff2'),
+        url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.woff') format('woff'),
+        url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
