@@ -162,7 +162,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .actions a {
-  font-family: "Proxima Nova", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -265,7 +265,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #performance-hero .actions a {
-  font-family: "Proxima Nova", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -347,7 +347,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #choreography-hero .actions a {
-  font-family: "Proxima Nova", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -429,7 +429,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #cdandmd-hero .actions a {
-  font-family: "Proxima Nova", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -850,7 +850,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #services .service-description {
   margin-left: 80px;
   line-height: 24px;
-  font-family: "Proxima Nova"; font-size: 14px;
+  font-family: 'Open Sans'; font-size: 14px;
 }
 
 #services .services-video {
@@ -976,7 +976,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #subscribe .subscribe-text {
   color: #fff; 
-  font-family: "Proxima Nova"; font-size: 15px;
+  font-family: 'Open Sans'; font-size: 15px;
 }
 
 #subscribe .subscribe-btn-container {
@@ -1015,7 +1015,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0;
   margin: 0 auto 35px auto;
   list-style: none;
-  text-align: center; font-family; "Proxima Nova"; letter-spacing: 1px;
+  text-align: center; font-family; 'Open Sans'; letter-spacing: 1px;
 }
 
 #portfolio #portfolio-flters li {
@@ -1394,7 +1394,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .info {
-  color: #666666;  font-family: "Proxima Nova"; font-weight: 340; letter-spacing: 1px;
+  color: #666666;  font-family: 'Open Sans'; font-weight: 340; letter-spacing: 1px;
 }
 
 #contact .info i {
@@ -1456,7 +1456,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .php-email-form input, #contact .php-email-form textarea {
   border-radius: 0;
-  box-shadow: none; font-family: "Proxima Nova";
+  box-shadow: none; font-family: 'Open Sans';
 }
 
 #contact .php-email-form input::focus, #contact .php-email-form textarea::focus {
