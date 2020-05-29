@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Pavanam';
+    font-family: Pavanam;
     src: url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.eot');
     src: local('Pavanam'), local('Pavanam-Regular'),
         url('https://kelseyang.github.io/assets/vendor/pavanam/Pavanam-Regular.eot?#iefix') format('embedded-opentype'),
@@ -10,3 +10,6 @@
     font-style: normal;
 }
 
+div {
+    font-family: Pavanam;
+}
