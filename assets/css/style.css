@@ -285,7 +285,7 @@ h1, h2, h3, h4, h5, h6 {
   display: table;
   width: 100%;
   height: 100vh;
-  background: url(../img/choreography-hero.jpg) top center;
+  background: url(../img/choreography-hero.png) top center;
   background-size: cover;
 }
 
@@ -960,6 +960,58 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 
+
+/* Fragmentary Blue Section
+--------------------------------*/
+#fragmentaryblue {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url("../img/fragmentaryblue-bg.png") fixed center center;
+  background-size: cover;
+  padding: 80px 0 60px 0;
+}
+
+#fragmentaryblue .service-item {
+  margin-bottom: 20px;
+}
+
+#fragmentaryblue .service-icon {
+  float: left;
+  background:  #f8bcb5;
+  padding: 16px;
+  border-radius: 50%;
+  transition: 0.5s;
+  border: 1px solid  #f8bcb5;
+}
+
+#fragmentaryblue .service-icon i {
+  color: #fff;
+  font-size: 24px;
+}
+
+#fragmentaryblue .service-item:hover .service-icon {
+  background: #fff;
+}
+
+#fragmentaryblue .service-item:hover .service-icon i {
+  color:  #f8bcb5;
+}
+
+#fragmentaryblue .service-title {
+  margin-left: 80px;
+  font-weight: 400;
+  margin-bottom: 15px;
+  font-family: "Pavanam"; letter-spacing: 1px;
+}
+
+#fragmentaryblue .service-title a {
+  color: #b98c86;
+}
+
+#fragmentaryblue .service-description {
+  margin-left: 80px;
+  line-height: 24px;
+  font-family: "Open Sans"; font-size: 14px;
+}
+
 /* Services Section
 --------------------------------*/
 #services-cdandmd {
@@ -1070,7 +1122,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /* Subscribe Section
 --------------------------------*/
 #subscribe {
-  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/subscribe-bg.jpg) fixed center center;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../img/about-teaching.jpg) fixed center center;
   background-size: cover;
   padding: 80px 0;
 }
